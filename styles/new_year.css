@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bannar {
+    background: rgba(0, 0, 0, 0.5)url("../image/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    height: 450px;
+    width: 1000px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    text-align: center;
+    background-blend-mode: darken;
+}
+
+.bannar-item {
+    padding: 50px;
+    margin: 10px;
+    position: relative;
+    top: 50px;
+}
+
+.bannar-greetings {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 5px;
+}
+
+.bannar-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    margin: 0px;
+}
+
+.discount-price {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.deals {
+    color: #F00;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.catagories {
+    color: #070211;
+    margin-top: 0px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.discount-image {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.img-sze {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+.bannar-below {
+    background: rgba(0, 0, 0, 0.5)url(../image/Vectorrr.png);
+    background-blend-mode: darken;
+    background-size: 1000px;
+    height: 450px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    display: flex;
+}
+
+.bannar-below-heading {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px;
+    letter-spacing: 7.04px;
+}
+
+.bannar-paragraph {
+    color: rgba(255, 255, 255, 0.80);
+    width: 640px;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 25px;
+    line-height: 25px;
+}
+
+.join-btn {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+    padding: 40px;
+}
+
+.bannar-content {
+    position: relative;
+    top: 80px;
+    left: 80px;
+}
+
+.year-image {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.img-size {
+    height: 350px;
+    width: 250px;
+}
+
+main {
+    padding: 100px;
+}
+
+.details {
+    text-align: center;
+    width: 1000px;
+    height: 400px;
+    margin-top: 100px;
+    border-radius: 3%;
+    background-image: linear-gradient(antiquewhite, white);
+}
+
+.details-elaboration {
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px;
+    position: relative;
+    top: 100px;
+    left: 25%;
+    border: 1px solid black;
+    width: 500px;
+}
+
+.titles {
+    color: #F00;
+}
+
+.best-offer {
+    margin-top: 100px;
+    display: flex;
+}
+
+.offer-details {
+    width: 400px;
+    margin-right: 30px;
+    align-items: center;
+}
+
+.best-offer-title {
+    color: #F00;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.coming-soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+.best-offer-content {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.happy-family {
+    border: 10px solid red;
+    padding: 2%;
+    border-radius: 100%;
+}
+
+.image-sizes {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 15px;
+}
+
+.year-elaborate {
+    width: 250px;
+    margin-left: 70px;
+}
+
+.year-number {
+    color: #F00;
+    font-family: Inter;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.sec-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.sec-desc-image {
+    margin-top: 30px;
+}
+
+.happy-new-year {
+    width: 100px;
+    height: 100px;
+}
