@@ -327,3 +327,56 @@ main {
 .holiday-lower-bannar {
     width: 1050px;
 }
+
+.shopping-details {
+    margin-top: 100px;
+}
+
+#width-manage {
+    width: 700px;
+}
+
+.shopping-product-part1, .shopping-product-part2 {
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+}
+
+.product-image {
+    width: 350px;
+    height: 350px;
+}
+
+.subscribe {
+    margin-top: 100px;
+    text-align: center;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.mail-icon {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.input-box {
+    padding: 15px;
+    width: 350px;
+    border: none;
+    border-radius: 50px;
+    background: #FFF;
+}
+
+.input-submit {
+    height: 100px;
+}
+
+.btn-sbs {
+    padding: 15px;
+    color: white;
+    width: 150px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+    position: absolute;
+    left: 650px;
+}
