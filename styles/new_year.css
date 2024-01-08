@@ -347,6 +347,10 @@ main {
     height: 350px;
 }
 
+.shopping-details img:hover {
+    transform: rotate(7deg);
+}
+
 .subscribe {
     margin-top: 100px;
     text-align: center;
